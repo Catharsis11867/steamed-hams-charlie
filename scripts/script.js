@@ -15,4 +15,5 @@ $(document).ready(function () {
     $("#outputMsg").text("Delightfully devilish, Seymour.");
     $("#outputDiv").toggle();
   });
+
 });
